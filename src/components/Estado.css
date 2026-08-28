@@ -1,0 +1,21 @@
+.estado {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;;
+  text-align: center;
+}
+
+.estado h2 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.estado h3 {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.estado p {
+  margin: 0;
+  color: #555;
+}
